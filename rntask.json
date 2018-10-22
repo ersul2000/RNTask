@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "1",
+	  "venue": "Camp Perahu Mountain",
+      "venueImage": "https://someurl.example",
+      "datetime": "2018-08-04T08:30:20Z",
+      "location": {
+        "city": "Wonosobo",
+        "state": "Jawa Tengah",
+        "country": "Indonesia"
+      },
+      "id": "2",
+	  "attendees": {
+        "data": [
+          {
+            "name": "Jane Doe",
+            "username": "jane.doe",
+            "avatar": "https://someurl.example"
+          }
+        ]
+      }
+    }
+  ]
+}
